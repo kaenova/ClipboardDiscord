@@ -1,0 +1,28 @@
+{
+  "name": "clipboarddiscord",
+  "version": "1.0.0",
+  "description": "Save your favorite text to this bot and you can call it back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaenova/ClipboardDiscord.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "KaeM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaenova/ClipboardDiscord/issues"
+  },
+  "homepage": "https://github.com/kaenova/ClipboardDiscord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.7",
+    "readme-md-generator": "^1.0.0"
+  }
+}
