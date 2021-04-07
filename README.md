@@ -40,12 +40,6 @@ Feel free to check [issues page](https://github.com/kaenova/ClipboardDiscord/iss
 
 Give a ⭐️ if this project helped you!
 
-
-## 📝 License
-
-Copyright © 2021 [KaeM](https://github.com/kaenova).
-
-This project is [ISC](https://github.com/kaenova/ClipboardDiscord/blob/master/LICENSE) licensed.
-
+<img  align= "right" src="https://cdn.discordapp.com/attachments/527433841690804224/791558706508726292/Pre-comp-3.gif"  width="200">
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
