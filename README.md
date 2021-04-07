@@ -5,7 +5,7 @@
 [![License: ISC](https://img.shields.io/github/license/kaenova/ClipboardDiscordBot)](https://github.com/kaenova/ClipboardDiscord/blob/master/LICENSE)
 [![Twitter: kaenovamahendra](https://img.shields.io/twitter/follow/kaenovamahendra.svg?style=social)](https://twitter.com/kaenovamahendra)
 
-<p align="center" > save your favorite text to this bot so you can call it back without scrolling up</p>
+<p align="center" > save your favourite text to this bot so you can call it back without scrolling up</p>
 
 ### 🏠 [Homepage](https://github.com/kaenova/ClipboardDiscord#readme)
 
@@ -40,7 +40,7 @@ The commands are (with prefix `*`):
 ```
 
 ## Future Development and Notes
-Because currently only work with "1 bot = 1 server", maybe in the future will implement so can work to many server with one bot. Will adding some function to show all the clipboard_key
+Because currently only work with "1 bot = 1 server", maybe in the future will implement so can work to many server with one bot. Will adding some function to show all the clipboard_key.
 
 ## Author
 
